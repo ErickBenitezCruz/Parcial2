@@ -1,0 +1,12 @@
+{
+  "name": "servidorexpress",
+  "version": "1.0.0",
+  "description": "Servidor Express para la actividad Parcial 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
